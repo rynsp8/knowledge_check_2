@@ -1,0 +1,15 @@
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\bin\Debug\net6.0\knowledge_check_2.exe
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\bin\Debug\net6.0\knowledge_check_2.deps.json
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\bin\Debug\net6.0\knowledge_check_2.runtimeconfig.json
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\bin\Debug\net6.0\knowledge_check_2.dll
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\bin\Debug\net6.0\knowledge_check_2.pdb
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\obj\Debug\net6.0\knowledge_check_2.csproj.AssemblyReference.cache
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\obj\Debug\net6.0\knowledge_check_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\obj\Debug\net6.0\knowledge_check_2.AssemblyInfoInputs.cache
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\obj\Debug\net6.0\knowledge_check_2.AssemblyInfo.cs
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\obj\Debug\net6.0\knowledge_check_2.csproj.CoreCompileInputs.cache
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\obj\Debug\net6.0\knowledge_check_2.dll
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\obj\Debug\net6.0\refint\knowledge_check_2.dll
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\obj\Debug\net6.0\knowledge_check_2.pdb
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\obj\Debug\net6.0\knowledge_check_2.genruntimeconfig.cache
+C:\Users\rspeight\source\repos\knowledge_check_2\knowledge_check_2\knowledge_check_2\obj\Debug\net6.0\ref\knowledge_check_2.dll
